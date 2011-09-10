@@ -92,18 +92,21 @@ namespace WordpressDataGen
                         pubdate
                 ));
             }
-
-            String datefile = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory) + "\\wpdata" + rand.Next(1, 10000).ToString() + ".xml";
-            data.Save(datefile);
         }
 
-        public string GetDocument()
+        public String GetDocumentAsString()
         {
             StringBuilder xs = new StringBuilder();
             xs.AppendLine(data.Declaration.ToString());
             xs.Append(data.ToString());
 
             return xs.ToString();
+        }
+
+        public void SaveToFile(String path)
+        {
+            String fileName = "\\wpdata" + rand.Next(1, 10000).ToString() + ".xml";
+            data.Save(path + fileName);
         }
 
         private XElement GetCategory(String name, String parent)
