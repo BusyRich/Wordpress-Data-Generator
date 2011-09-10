@@ -3,3 +3,8 @@ S:\Projects\Windows\WordpressDataGen\WordpressDataGen\bin\Debug\WordpressDataGen
 S:\Projects\Windows\WordpressDataGen\WordpressDataGen\obj\x86\Debug\ResolveAssemblyReference.cache
 S:\Projects\Windows\WordpressDataGen\WordpressDataGen\obj\x86\Debug\WordpressDataGen.exe
 S:\Projects\Windows\WordpressDataGen\WordpressDataGen\obj\x86\Debug\WordpressDataGen.pdb
+S:\Projects\Windows\WordpressDataGen\WordpressDataGen\WordpressDataGen\obj\x86\Debug\WordpressDataGen.exe
+S:\Projects\Windows\WordpressDataGen\WordpressDataGen\WordpressDataGen\obj\x86\Debug\WordpressDataGen.pdb
+S:\Projects\Windows\WordpressDataGen\WordpressDataGen\WordpressDataGen\bin\Debug\WordpressDataGen.exe
+S:\Projects\Windows\WordpressDataGen\WordpressDataGen\WordpressDataGen\bin\Debug\WordpressDataGen.pdb
+S:\Projects\Windows\WordpressDataGen\WordpressDataGen\WordpressDataGen\obj\x86\Debug\ResolveAssemblyReference.cache

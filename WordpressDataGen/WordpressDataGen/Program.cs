@@ -9,9 +9,9 @@ namespace WordpressDataGen
     {
         static void Main(string[] args)
         {
-            //WPData newData = new WPData();
+            WPData newData = new WPData();
 
-            //Console.Write(newData.GetDocument());
+            Console.Write(newData.GetDocument());
 
             Console.ReadKey();
         }
